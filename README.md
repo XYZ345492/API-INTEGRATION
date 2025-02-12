@@ -1,11 +1,11 @@
 # API-INTEGRATION
 api-integration-task1-codtech
-name : Sameer L 
+name : T.GANESH
 company : CODTECH IT SOLUTIONS
-id : CDO8DVI 
+id :CT08HUQ
 domain : full stack web development
-duration : dec to jan 2025
-mentor : Muzammil Ahmed
+duration : dec30 to jan30 2025
+mentor : NEELA SANTHOSH KUMAR
 
 #output 
 
